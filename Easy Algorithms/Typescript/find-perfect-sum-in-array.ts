@@ -3,11 +3,6 @@
 // Puede suponer que cada entrada tendría exactamente una solución y no puede usar el mismo elemento dos veces.
 // Puede devolver la respuesta en cualquier orden.
 
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- */
  function twoSum(nums: number[], target: number): number[] {
     for(let i = 0; i < nums.length - 1; i++) {
        for (let j = 0; j < nums.length - 1; j++) {

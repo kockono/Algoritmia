@@ -1,4 +1,4 @@
-function longestCommonPrefix(strs: string[]): string {
+function longestCommonLetters(strs: string[]): string {
   const primerPalabra = strs[0];
   let letrasEnComun:any[] = []
 
@@ -12,7 +12,7 @@ function longestCommonPrefix(strs: string[]): string {
    return encontrarLaPalabraMasLargaEnComun(letrasEnComun);;
 };
 
-longestCommonPrefix(["flower","flow","flight"]);
+longestCommonLetters(["flower","flow","flight"]);
 
 function compararPalabra(primerPalabra:string, siguientePalabra:string, letrasEnComun:any[]) { 
   let letrasEncontradas:any[] = []

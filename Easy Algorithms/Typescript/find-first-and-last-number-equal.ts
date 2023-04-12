@@ -1,4 +1,4 @@
-// Manejar un reverse
+// Valida si el primer y ultimo numero son iguales
 function isPalindrome(x: number): boolean {
     let numberString:string = x.toString();
     let numberLength:string = numberString;
