@@ -1,8 +1,8 @@
-// Eliminar los asteriscos y la letra a la izquierda del asterisco
-
 /**
+ * Descripción: Elimina los asteriscos y la letra de la izquierda de una palabra
  * 100% Aprovechamiento de Memoria
  * ------------------------------------------------------------ Explicación ------------------------------------------------------
+ * 
  * 1. Por cada (*) que encuentre, suma 1 al avariable contarStar, sí encuentra 10 (*) ignorara las 10 siguientes letras
  * 2. Si encuentra una letra, la agrega a la variable palabraFinal, sí encuentra una letra y contarStar es mayor a 0, no la agrega
  */
