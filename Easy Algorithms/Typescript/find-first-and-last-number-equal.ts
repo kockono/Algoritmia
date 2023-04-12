@@ -11,4 +11,4 @@ function isPalindrome(x: number): boolean {
         return false;
 };
 
-console.log( isPalindrome(1000021) )
+console.log( isPalindrome(1000021) );
