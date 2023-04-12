@@ -2,7 +2,11 @@
 ## Description 
 This repository contains the solutions to the problems I have solved in leet code. The problems are divided in three categories: easy, medium and hard. The solutions are written in Typescript, Javascript, Sql. 
 
-### Easy Ones
+1. [Easy Ones](#easy-ones)
+2. [Medium Ones](#medium-ones)
+3. [Hard Ones](#hard-ones)
+
+### Easy-Ones
 
 | Ids     |     Problems                         | Code Source     |
 | :---    | :----                                | :----           |
