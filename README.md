@@ -19,7 +19,7 @@ This repository contains the solutions to the problems I have solved in leet cod
 
 | Ids     |     Problems                         | Code Source |
 | :---    | :----                                | :----       |
-|   1     | Remove stars from string             | [Ts](https://github.com/kockono/Algoritmia/blob/main/Medium%20Algorithms/Typescript/remove-stars-from-string.ts) [Js] (https://github.com/kockono/Algoritmia/blob/main/Medium%20Algorithms/Typescript/remove-stars-from-string.js)  |
+|   1     | Remove stars from string             | [Ts](https://github.com/kockono/Algoritmia/blob/main/Medium%20Algorithms/Typescript/remove-stars-from-string.ts) [Js](https://github.com/kockono/Algoritmia/blob/main/Medium%20Algorithms/Typescript/remove-stars-from-string.js)  |
 
 ### Hard Ones
 
