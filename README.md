@@ -8,8 +8,8 @@ This repository contains the solutions to the problems I have solved in leet cod
 3. Find if is a palindrome number [Code-Source]
 4. Find most common letters [Code-Source]
 5. Remove duplicates numbers [Code-Source]
-6. Longest common prefix [Ts](https://github.com/kockono/Algoritmia/blob/main/Easy%20Algorithms/javascript/longest-common-prefix.ts) [Js](https://github.com/kockono/Algoritmia/blob/main/Easy%20Algorithms/javascript/longest-common-prefix.js)
-7. Find first and last number equal [Ts](https://github.com/kockono/Algoritmia/blob/main/Easy%20Algorithms/Typescript/find-first-and-last-number-equal.ts)  [Js](https://github.com/kockono/Algoritmia/blob/main/Easy%20Algorithms/javascript/find-first-and-last-number-equal.js)
+6. Longest common prefix [Ts](https://github.com/kockono/Algoritmia/blob/main/Easy%20Algorithms/javascript/longest-common-prefix.ts), [Js](https://github.com/kockono/Algoritmia/blob/main/Easy%20Algorithms/javascript/longest-common-prefix.js)
+7. Find first and last number equal [Ts](https://github.com/kockono/Algoritmia/blob/main/Easy%20Algorithms/Typescript/find-first-and-last-number-equal.ts),  [Js](https://github.com/kockono/Algoritmia/blob/main/Easy%20Algorithms/javascript/find-first-and-last-number-equal.js)
 
 ### Medium Ones
 1. Remove stars from string
