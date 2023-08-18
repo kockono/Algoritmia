@@ -22,9 +22,9 @@ This repository contains the solutions to the problems I have solved in leet cod
 
 ### Medium Ones
 
-| Ids     |     Problems              | Code Source                                                                                                                                                                                                                          |
-| :---    | :----                     | :----                                                                                                                                                                                                                                |
-| #2390   | Remove stars from string  | [Ts](https://github.com/kockono/Algoritmia/blob/main/Medium%20Algorithms/Typescript/remove-stars-from-string.ts) [Js](https://github.com/kockono/Algoritmia/blob/main/Medium%20Algorithms/Typescript/remove-stars-from-string.js)    |
+| Ids                                                                    |     Problems              | Code Source                                                                                                                                                                                                                          |
+| :---                                                                   | :----                     | :----                                                                                                                                                                                                                                |
+| [#2390](https://leetcode.com/problems/removing-stars-from-a-string/)   | Remove stars from string  | [Ts](https://github.com/kockono/Algoritmia/blob/main/Medium%20Algorithms/Typescript/remove-stars-from-string.ts) [Js](https://github.com/kockono/Algoritmia/blob/main/Medium%20Algorithms/Typescript/remove-stars-from-string.js)    |
 
 ### Hard Ones
 
