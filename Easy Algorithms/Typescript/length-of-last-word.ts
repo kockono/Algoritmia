@@ -1,7 +1,8 @@
 /**
- * @description  #58 Encontrar el largo de la última palabra en una cadena de caracteres
+ * @description Encontrar el largo de la última palabra en una cadena de caracteres
+ * @link #58 https://leetcode.com/problems/length-of-last-word/
  * @param {string} s  Cadena de caracteres
- * @returns {number} Largo de la última palabra
+ * @returns  {number} Largo de la última palabra
  * 
  */
 function lengthOfLastWord(s: string): number {
