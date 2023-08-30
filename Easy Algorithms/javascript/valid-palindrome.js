@@ -6,13 +6,12 @@
  */
 var isPalindrome = function(s) {
   s = removeNonAlphanumeric(s).toLowerCase();
-
   // Original Word === Reversed Word
   return s === s.split('').reverse().join('');
 };
 
 function removeNonAlphanumeric(inputString) {
-return inputString.replace(/[^a-zA-Z0-9]/g, '');
+  return inputString.replace(/[^a-zA-Z0-9]/g, '');
 }
 
 /**
@@ -25,11 +24,8 @@ return inputString.replace(/[^a-zA-Z0-9]/g, '');
 var isPalindrome = function(s) {
   s = removeNonAlphanumeric(s).toLowerCase();
   for (let i = 0; i < s.length; i++) {
-    if(s[i] !== s[s.length - 1 - i]) {
-      return false
-    }
+    if(s[i] !== s[s.length - 1 - i]) return false;
   }
-  
   return true;
 };
 
